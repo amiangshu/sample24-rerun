@@ -1,5 +1,5 @@
 // C++ program for the above approach 
-// Author: CSC4110
+// Author: CSC4110, want to make conflict
 //Date: January 18 2024
 #include <iostream> 
 using namespace std; 
@@ -27,7 +27,7 @@ public:
 }; 
 
 // Linked list class to 
-// implement a linked list. 
+// implement a linked list. oh, conflict, my conflict
 class Linkedlist { 
 	Node* head; 
 
