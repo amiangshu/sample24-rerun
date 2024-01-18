@@ -1,5 +1,5 @@
 // C++ program for the above approach 
-// Author: CSC4110
+// Author: CSC4110, an online source, not my copyright.
 //Date: January 18 2024
 #include <iostream> 
 using namespace std; 
@@ -26,8 +26,8 @@ public:
 	} 
 }; 
 
-// Linked list class to 
-// implement a linked list. 
+// Linked list class to  
+// implement a linked list. code copied from the internet.
 class Linkedlist { 
 	Node* head; 
 
@@ -50,7 +50,7 @@ public:
 }; 
 
 // Function to delete the 
-// node at given position. I am making just a point
+// node at given position. I am making just a point. made.
 void Linkedlist::deleteNode(int nodeOffset) 
 { 
 	Node *temp1 = head, *temp2 = NULL; 
