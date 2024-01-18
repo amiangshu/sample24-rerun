@@ -1,4 +1,6 @@
 // C++ program for the above approach 
+// Author: CSC4110
+//Date: January 18 2024
 #include <iostream> 
 using namespace std; 
 
