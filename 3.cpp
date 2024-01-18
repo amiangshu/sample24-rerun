@@ -48,7 +48,7 @@ public:
 }; 
 
 // Function to delete the 
-// node at given position 
+// node at given position. I am making just a point
 void Linkedlist::deleteNode(int nodeOffset) 
 { 
 	Node *temp1 = head, *temp2 = NULL; 
